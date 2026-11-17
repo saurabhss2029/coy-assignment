@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="hsl(204 70% 62%)"/><stop offset="1" stop-color="hsl(259 65% 38%)"/></linearGradient></defs>
+<rect width="600" height="800" fill="url(#g)"/>
+<circle cx="300" cy="300" r="110" fill="rgba(255,255,255,.28)"/>
+<path d="M90 800c0-170 95-260 210-260s210 90 210 260z" fill="rgba(255,255,255,.28)"/>
+<text x="300" y="338" font-family="Georgia,serif" font-size="120" text-anchor="middle" fill="#fff">T</text>
+</svg>
